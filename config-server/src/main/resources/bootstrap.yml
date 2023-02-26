@@ -5,6 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: file://Users/Shared/projects/microservices-demo/config-server-repository
+          uri: file://C:/Users/Angad_Bansode/OneDrive - EPAM/Desktop/udemy-microservice/config-server-git/microservices-demo/config-server-repository
+          default-label: main
           clone-on-start: true
     fail-fast: true
